@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PongClassicDS" />
+		<Option makefile_is_custom="1" />
+		<Option pch_mode="2" />
+		<Option compiler="armelfgcc" />
+		<MakeCommands>
+			<Build command="make" />
+			<CompileFile command="$make -f $makefile $file" />
+			<Clean command="make clean" />
+			<DistClean command="$make -f $makefile distclean$target" />
+		</MakeCommands>
+		<Build>
+			<Target title="default">
+				<Option output="PongClassicDS.nds" prefix_auto="0" extension_auto="0" />
+				<Option type="3" />
+				<Option compiler="armelfgcc" />
+				<Option parameters="--disable-sound PongClassicDS.nds" />
+				<Option host_application="desmume" />
+				<MakeCommands>
+					<Build command="make" />
+					<CompileFile command="$make -f $makefile $file" />
+					<Clean command="make clean" />
+					<DistClean command="$make -f $makefile distclean$target" />
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="source/effects.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/effects.h" />
+		<Unit filename="source/fonctionsAutres.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/ia.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="source/ia.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="source/jeux.h" />
+		<Unit filename="source/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/main.h" />
+		<Unit filename="source/modeDemo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/modeDeuxJoueurs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/modeUnJoueur.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/modeWifi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/psychadelic.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/psychadelic.h" />
+		<Unit filename="source/scores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source/scores.h" />
+		<Unit filename="source/wifi.h" />
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,53 @@
+PAGfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+Converting PAGfx.ini
+Transparent Color : Magenta
+
+8 sprites :
+  balle : 256colors, 8x8, Pal : balle_Pal, -> balle_Sprite
+  raquette : 256colors, 8x32, Pal : raquette_Pal, -> raquette_Sprite
+  IA_easy : 256colors, 64x32, Pal : IA_easy_Pal, -> IA_easy_Sprite
+  IA_normal : 256colors, 64x32, Pal : IA_normal_Pal, -> IA_normal_Sprite
+  IA_hard : 256colors, 64x32, Pal : IA_hard_Pal, -> IA_hard_Sprite
+  IA_invincible : 256colors, 64x32, Pal : IA_invincible_Pal, -> IA_invincible_Sprite
+  arcade : 256colors, 64x32, Pal : arcade_spr_Pal, -> arcade_Sprite
+  adventure : 256colors, 64x32, Pal : adventure_spr_Pal, -> adventure_Sprite
+
+11 backgrounds :
+  demoBG : TileBg, 256x192, Pal : demoBG_Pal, 135 tiles -> demoBG_Tiles and demoBG_Map
+  deuxJoueursBG : TileBg, 256x192, Pal : deuxJoueursBG_Pal, 123 tiles -> deuxJoueursBG_Tiles and deuxJoueursBG_Map
+  ecran_titre_bas : TileBg, 256x192, Pal : ecran_titre_bas_Pal, 419 tiles -> ecran_titre_bas_Tiles and ecran_titre_bas_Map
+  ecran_titre_haut : TileBg, 256x192, Pal : ecran_titre_haut_Pal, 239 tiles -> ecran_titre_haut_Tiles and ecran_titre_haut_Map
+  menu_bas : TileBg, 256x192, Pal : menu_bas_Pal, 215 tiles -> menu_bas_Tiles and menu_bas_Map
+  menu_haut : TileBg, 256x192, Pal : menu_haut_Pal, 302 tiles -> menu_haut_Tiles and menu_haut_Map
+  menu_choix_mode : TileBg, 256x192, Pal : menu_choix_mode_Pal, 154 tiles -> menu_choix_mode_Tiles and menu_choix_mode_Map
+  terrainBG : TileBg, 256x192, Pal : terrainBG_Pal, 31 tiles -> terrainBG_Tiles and terrainBG_Map
+  unJoueurBG : TileBg, 256x192, Pal : unJoueurBG_Pal, 108 tiles -> unJoueurBG_Tiles and unJoueurBG_Map
+  splash_haut : TileBg, 256x192, Pal : splash_haut_Pal, 741 tiles -> splash_haut_Tiles and splash_haut_Map
+  splash_bas : TileBg, 256x192, Pal : splash_bas_Pal, 764 tiles -> splash_bas_Tiles and splash_bas_Map
+
+19 palettes :
+  balle_Pal, 2 colors
+  raquette_Pal, 2 colors
+  IA_easy_Pal, 33 colors
+  IA_normal_Pal, 33 colors
+  IA_hard_Pal, 33 colors
+  IA_invincible_Pal, 33 colors
+  arcade_spr_Pal, 33 colors
+  adventure_spr_Pal, 33 colors
+  demoBG_Pal, 14 colors
+  deuxJoueursBG_Pal, 14 colors
+  ecran_titre_bas_Pal, 48 colors
+  ecran_titre_haut_Pal, 33 colors
+  menu_bas_Pal, 33 colors
+  menu_haut_Pal, 33 colors
+  menu_choix_mode_Pal, 186 colors
+  terrainBG_Pal, 14 colors
+  unJoueurBG_Pal, 14 colors
+  splash_haut_Pal, 188 colors
+  splash_bas_Pal, 188 colors
+
+Converted in 0 minutes 9 seconds
+
+Finished !

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="default" />
+	<File name="source/effects.c" open="0" top="0" tabpos="5">
+		<Cursor position="858" topLine="18" />
+	</File>
+	<File name="source/effects.h" open="0" top="0" tabpos="6">
+		<Cursor position="217" topLine="0" />
+	</File>
+	<File name="source/fonctionsAutres.c" open="1" top="0" tabpos="3">
+		<Cursor position="4534" topLine="122" />
+	</File>
+	<File name="source/ia.c" open="0" top="0" tabpos="5">
+		<Cursor position="1266" topLine="6" />
+	</File>
+	<File name="source/ia.h" open="0" top="0" tabpos="2">
+		<Cursor position="989" topLine="0" />
+	</File>
+	<File name="source/jeux.h" open="0" top="0" tabpos="6">
+		<Cursor position="715" topLine="0" />
+	</File>
+	<File name="source/main.c" open="1" top="0" tabpos="2">
+		<Cursor position="1035" topLine="0" />
+	</File>
+	<File name="source/main.h" open="0" top="0" tabpos="4">
+		<Cursor position="218" topLine="0" />
+	</File>
+	<File name="source/modeDemo.c" open="0" top="0" tabpos="3">
+		<Cursor position="2075" topLine="35" />
+	</File>
+	<File name="source/modeDeuxJoueurs.c" open="0" top="0" tabpos="2">
+		<Cursor position="97" topLine="0" />
+	</File>
+	<File name="source/modeUnJoueur.c" open="1" top="0" tabpos="4">
+		<Cursor position="8034" topLine="207" />
+	</File>
+	<File name="source/modeWifi.c" open="1" top="1" tabpos="1">
+		<Cursor position="2457" topLine="53" />
+	</File>
+	<File name="source/psychadelic.c" open="1" top="0" tabpos="5">
+		<Cursor position="4291" topLine="0" />
+	</File>
+	<File name="source/psychadelic.h" open="0" top="0" tabpos="3">
+		<Cursor position="284" topLine="0" />
+	</File>
+	<File name="source/scores.c" open="0" top="0" tabpos="4">
+		<Cursor position="170" topLine="0" />
+	</File>
+	<File name="source/scores.h" open="0" top="0" tabpos="0">
+		<Cursor position="40" topLine="0" />
+	</File>
+	<File name="source/wifi.h" open="0" top="0" tabpos="9">
+		<Cursor position="35" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
